@@ -1,4 +1,4 @@
-resume: shellcode remote call loadlibrary,dllcall into exe region space
+resume: shellcode remote call loadlibrary,dllcall into exe region space uese SetWindowsHookEx with own process thread in order to hook/call it
 
 # DLL Injection with Driver Setup
 
