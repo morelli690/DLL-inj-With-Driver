@@ -1,3 +1,5 @@
+resume: shellcode remote call loadlibrary,dllcall into exe region space
+
 # DLL Injection with Driver Setup
 
 This project is a tool used for performing **DLL injection (injecting code)** into a specific game or application process (such as `cod.exe`). The application first loads a **driver**, then interacts with the target process and injects the specified **DLL file**.
